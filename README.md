@@ -13,3 +13,6 @@ statistical arbitrage, generalized pairs trading, factor model, machine learning
 3. NoBias_Ada.py: Adaboost model.
 4. NoBias_LSTM.py: LSTM model.
 5. NoBias_OU.py: Statistics-based relative value approach by Avellaneda and Lee (2010).
+
+### How To Use
+Clone this repository and run the Python files. Results will be automatically stored in the directory /results.
