@@ -1,6 +1,7 @@
 # Enhancing-Pairs-Trading-with-Machine-Learning-Models
  
-##### KeyWords: statistical arbitrage, generalized pairs trading, factor model, machine learning, Long-Short Term Memory (LSTM), AdaBoost
+##### KeyWords: 
+statistical arbitrage, generalized pairs trading, factor model, machine learning, Long-Short Term Memory (LSTM), AdaBoost
 
 ### Description
 1. This research project aimed at implementing machine learning models on pairs trading strategies to improve performance.
